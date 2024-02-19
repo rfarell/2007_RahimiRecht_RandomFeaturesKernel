@@ -28,8 +28,8 @@ For a detailed summary, see `paper_summary.pdf` in this repository.
 
 The Jupyter notebook `RFF.ipynb` includes a Python implementation of the RFF algorithm along with a demonstration of how it approximates the Gaussian kernel. It also contains visualizations of the actual vs. approximate kernels and an analysis of the convergence of the total and worst-case errors.
 
-You can view and run the notebook directly in Google Colab: [RFF.ipynb](<link-to-colab-notebook>)
-- 📔 [PRFF](https://colab.research.google.com/github/rfarell/2007_RahimiRecht_RandomFeaturesKernel/blob/main/RFF.ipynb)
+You can view and run the notebook directly in Google Colab:
+- 📔 [RFF](https://colab.research.google.com/github/rfarell/2007_RahimiRecht_RandomFeaturesKernel/blob/main/RFF.ipynb)
 
 
 ## Visualizations
