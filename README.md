@@ -1,5 +1,3 @@
-Certainly! Here's a template for a README file that you can use for your repository:
-
 # Random Features for Large-Scale Kernel Machines (2007 Rahimi & Recht)
 
 This repository contains a detailed review, summary, and implementation of the Random Fourier Features (RFF) method as introduced by Ali Rahimi and Benjamin Recht in their influential 2007 paper published in the proceedings of the Advances in Neural Information Processing Systems (NIPS). The original paper is available [here](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf).
