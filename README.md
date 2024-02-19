@@ -47,7 +47,3 @@ The repository includes the following visualizations generated from the code:
 <!-- ## Presentation
 
 A YouTube presentation that walks through the concepts and findings of this research can be found here: [RFF Presentation](https://www.youtube.com/watch?v=AayZuuDDKP0) -->
-
-## Author
-
-Ryan Farell
