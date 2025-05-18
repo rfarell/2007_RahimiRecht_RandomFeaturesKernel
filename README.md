@@ -34,11 +34,15 @@ You can view and run the notebook directly in Google Colab:
 
 The repository includes the following visualizations generated from the code:
 
-- `rff_kernel.png`: Actual vs. Approximate Gaussian Kernel
+- `rff_kernel.png`: Heatmaps of the actual and approximate Gaussian kernels
+- `rff_kernel_slice.png`: Overlay of a kernel slice for direct comparison
+- `rff_kernel_2d.png`: Visualization of the 2‑D kernel approximation
 - `rff_error.png`: Total Error vs. D (Number of Random Features)
 - `rff_worst_case_error.png`: Worst-Case Error vs. D (Number of Random Features)
 
 ![Actual vs. Approximate Gaussian Kernel](rff_kernel.png)
+![Kernel Slice Comparison](rff_kernel_slice.png)
+![2-D Kernel Approximation](rff_kernel_2d.png)
 ![Total Error vs. D (Number of Random Features)](rff_error.png)
 ![Worst-Case Error vs. D (Number of Random Features)](rff_worst_case_error.png)
 
